@@ -13,7 +13,7 @@ Simple tray application to monitor the battery level of the Yunzii YZ87 keyboard
 
 ## Installation
 1. Download the latest release from the [Releases](https://github.com/dannyfwbb/yunzii-yz87-monitor/releases).
-2. Run `YZ87Monitor.exe`. The app will appear in the system tray.
+2. Extract archive and run `YZ87Monitor.exe`. The app will appear in the system tray.
 
 ## Usage
 - **Tray Icon**: Hover to view battery percentage.
