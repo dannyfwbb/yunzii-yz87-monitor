@@ -1,6 +1,7 @@
 # Yunzii YZ87 Battery Monitor
 
 Simple tray application to monitor the battery level of the Yunzii YZ87 keyboard.
+**Currently works only when using 2.4Ghz dongle.**
 
 ## Features
 - **Dynamic Tray Icon**: Displays battery level with color-coded indicators:
